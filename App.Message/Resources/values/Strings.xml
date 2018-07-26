@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">Notificação</string>
+  <string name="app_Descricao">Adicionar notificação</string>
+  <string name="app_Button_Add">Adicionar</string>
+  <string name="app_Button_Remove">Remover</string>
+</resources>
