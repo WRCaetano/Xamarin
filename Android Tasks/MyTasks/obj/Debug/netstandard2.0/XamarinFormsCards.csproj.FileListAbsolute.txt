@@ -1,0 +1,9 @@
+c:\Temp\MyTasks\MyTasks\MyTasks\bin\Debug\netstandard2.0\MyTasks.deps.json
+c:\Temp\MyTasks\MyTasks\MyTasks\bin\Debug\netstandard2.0\MyTasks.dll
+c:\Temp\MyTasks\MyTasks\MyTasks\bin\Debug\netstandard2.0\MyTasks.pdb
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.csprojAssemblyReference.cache
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.csproj.CoreCompileInputs.cache
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.AssemblyInfoInputs.cache
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.AssemblyInfo.cs
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.dll
+c:\Temp\MyTasks\MyTasks\MyTasks\obj\Debug\netstandard2.0\MyTasks.pdb

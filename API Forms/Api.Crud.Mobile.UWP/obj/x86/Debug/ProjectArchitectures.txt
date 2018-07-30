@@ -1,0 +1,1 @@
+D:\GIT\WRCaetano\Xamarin\RestApp\Api.Crud.Mobile\Api.Crud.Mobile.UWP\Api.Crud.Mobile.UWP.csproj;x86

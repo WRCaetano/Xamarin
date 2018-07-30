@@ -1,0 +1,9 @@
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\bin\Debug\netstandard2.0\MyTasks.deps.json
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\bin\Debug\netstandard2.0\MyTasks.dll
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\bin\Debug\netstandard2.0\MyTasks.pdb
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.csprojAssemblyReference.cache
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.csproj.CoreCompileInputs.cache
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.AssemblyInfoInputs.cache
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.AssemblyInfo.cs
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.dll
+D:\GIT\WRCaetano\Xamarin\Tarefas\MyTasks\obj\Debug\netstandard2.0\MyTasks.pdb
