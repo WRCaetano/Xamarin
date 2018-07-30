@@ -7574,11 +7574,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile.UWP\\Api.Crud.Mobile.UWP.csproj",
+      "projectUniqueName": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile.UWP\\Api.Crud.Mobile.UWP.csproj",
       "projectName": "Api.Crud.Mobile.UWP",
-      "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile.UWP\\Api.Crud.Mobile.UWP.csproj",
+      "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile.UWP\\Api.Crud.Mobile.UWP.csproj",
       "packagesPath": "C:\\Users\\WRCaetano\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile.UWP\\obj\\",
+      "outputPath": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -7598,8 +7598,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj": {
-              "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj"
+            "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj": {
+              "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj"
             }
           }
         }

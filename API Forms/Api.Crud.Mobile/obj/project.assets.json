@@ -593,11 +593,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj",
+      "projectUniqueName": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj",
       "projectName": "Api.Crud.Mobile",
-      "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj",
+      "projectPath": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile\\Api.Crud.Mobile.csproj",
       "packagesPath": "C:\\Users\\WRCaetano\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\WRCaetano\\Xamarin\\Api.Crud.Mobile\\Api.Crud.Mobile\\obj\\",
+      "outputPath": "D:\\GIT\\WRCaetano\\Xamarin\\API Forms\\Api.Crud.Mobile\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
