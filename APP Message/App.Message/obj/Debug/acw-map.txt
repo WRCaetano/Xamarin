@@ -1,3 +1,0 @@
-App.Message.MainActivity, WRC.App.Message;md5dde8e09b94cd35f341f94bed32f3d6c0.MainActivity
-App.Message.MainActivity;md5dde8e09b94cd35f341f94bed32f3d6c0.MainActivity
-app.message.MainActivity;md5dde8e09b94cd35f341f94bed32f3d6c0.MainActivity

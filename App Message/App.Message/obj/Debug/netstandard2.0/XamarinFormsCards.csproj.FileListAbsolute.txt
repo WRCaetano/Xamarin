@@ -1,0 +1,9 @@
+c:\Temp\App.Message\App.Message\App.Message\bin\Debug\netstandard2.0\App.Message.deps.json
+c:\Temp\App.Message\App.Message\App.Message\bin\Debug\netstandard2.0\App.Message.dll
+c:\Temp\App.Message\App.Message\App.Message\bin\Debug\netstandard2.0\App.Message.pdb
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.csprojAssemblyReference.cache
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.csproj.CoreCompileInputs.cache
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.AssemblyInfoInputs.cache
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.AssemblyInfo.cs
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.dll
+c:\Temp\App.Message\App.Message\App.Message\obj\Debug\netstandard2.0\App.Message.pdb

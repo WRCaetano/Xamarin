@@ -1,2 +1,0 @@
-android.app.Application
-WRC.App.Message
